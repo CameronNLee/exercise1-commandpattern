@@ -2719,6 +2719,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c59a078325b061e419cc18aa06e02c66, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FastObj: {fileID: 0}
   ProductPrefab: {fileID: 7430569447165051818, guid: 8696b598a26aaf141abd683312c677d1,
     type: 3}
 --- !u!95 &559727864
@@ -5424,6 +5425,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c59a078325b061e419cc18aa06e02c66, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FastObj: {fileID: 0}
   ProductPrefab: {fileID: 5567988952978629257, guid: 4ed0901ae776e4147a1ef2d5afc26b2e,
     type: 3}
 --- !u!1 &1297054240
@@ -6141,7 +6143,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1446729672}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.585228, y: -3.05, z: 0}
+  m_LocalPosition: {x: 3.5, y: -2.96, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1802875505}
@@ -6206,6 +6208,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c59a078325b061e419cc18aa06e02c66, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FastObj: {fileID: 0}
   ProductPrefab: {fileID: 3125093301620040353, guid: 24f449961098f0e4d922fa25241a1ad5,
     type: 3}
 --- !u!95 &1446729678

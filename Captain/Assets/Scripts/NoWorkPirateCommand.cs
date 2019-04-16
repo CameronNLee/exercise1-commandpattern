@@ -21,10 +21,10 @@ namespace Captain.Command
 
         public bool Execute(GameObject pirate, Object productPrefab)
         {
-            //This function returns false when no work is done. 
-            //After you implement work according to the specification and
-            //generate instances of productPrefab, this function should return true.
-            return false;
+            // This function returns false when no work is done. 
+            // After you implement work according to the specification and
+            // generate instances of productPrefab, this function should return true.
+            return Exhausted;
         }
     }
 }
